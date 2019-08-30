@@ -1,4 +1,4 @@
-# Flask-Web-App-Complaints-Registeration-and-Retrieval
+# Flask-Web-App-Complaints-Registration-and-Retrieval
 
 <h2>Business case:</h2>
 
