@@ -41,6 +41,10 @@ V.	Modules to register and retrieve complaints to or from the database
 
 VI.	Configuration scripts to create tables, start webservice, authentication
 
+<h2>Instructions for Use:</h2>
+1.Ensure all required HTML files are present inside templates folder<br>2.Firstly run database.py which will automamtically create a database complain.db<br>3.Now execute main.py which will initiate your web app and you can visit it at http://127.0.0.1:5000/ <br>4.User will click on Submit your Complaints and register his/her details.<br>5.User will be provided a Unique Reference Number.<br>6.Now you can update the status of complaint in the database<br>7.Next time when user will input his/her unique reference number,all his comlplaints details will be fetched
+along with the status of the complaint.
+
 <h2>Softwares Requirements:</h2>
 1.	Python 3.7.x<br>2.	Sqlite 3<br>3.	Flask 1.1.1<br>
 
