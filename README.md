@@ -4,14 +4,12 @@
 
 <h4>Business units are receiving complaints from its customers through sources of call centre, mails, paper mode, each branch offices, retail offices, back operation offices . It is very difficult to manage these complaints and process feedback to business for corrections and improvement.</h4>
 
-A web based application can be used to log and process all the complaints in a single database. 
-Benefits to the customers:
-1.	Customers can log their complaints in a single window without making any calls, direct contact with company.
-2.	They can log the complaints through their mobiles, laptops, tablets.
-Benefits to the companies:
-1.	All the complaints are logged in a single database and accessible from any location to all authenticated users without any hassles.
-2.	Reduced workload on the employees receiving complaints at various channels.
-3.	The complaints stored in database can be used to perform analytics and provide feedback to company managers to increase the customer satisfaction, operation efficiency, boosting sales.
+A web based application can be used to log and process all the complaints in a single database.
+<h4>Benefits to the customers:</h4>
+1.Customers can log their complaints in a single window without making any calls, direct contact with company.<br>2.They can log the complaints through their mobiles, laptops, tablets.<br>
+        
+<h4>Benefits to the companies:</h4>
+1.All the complaints are logged in a single database and accessible from any location to all authenticated users without any hassles.<br>2.Reduced workload on the employees receiving complaints at various channels.<br>3.The complaints stored in database can be used to perform analytics and provide feedback to company managers to increase the customer satisfaction, operation efficiency, boosting sales.
 
 <h2>Proposed Solution:</h2>
 
